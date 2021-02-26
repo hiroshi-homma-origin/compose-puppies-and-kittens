@@ -1,2 +1,2 @@
-# compose-puppy-and-kitten
-can how a list of puppies and kitten, and show its detail, and can be switched.
+# compose-puppies-and-kittens
+can how a list of puppies and kittens, and show its detail, and can be switched.
